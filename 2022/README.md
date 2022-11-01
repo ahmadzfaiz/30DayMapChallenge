@@ -2,8 +2,10 @@
 # #30DayMapChallenge 2022
 #### by **_Ahmad Zaenun Faiz_** <br><br>
 
-Map catalogue
-* [Day 1 - Point]()
+## MAP CATALOGUE <br>
+###  <b>1. Day 1 - Point</b>
+This is a map of cultural heritage locations around Prambanan Temple Compounds in Kewu Plain. Historically the area was identified as Mataram. The region was the center of the Medang i Bhumi Mataram kingdom in the 8th to 10th centuries.<br>
+> ![day_1](./1_day1-points/Day%201%20-%20Points%20(Candi%20Prambanan).png)
 * [Day 2 - Lines]()
 * [Day 3 - Polygons]()
 * [Day 4 - Colour Friday: Green]()
