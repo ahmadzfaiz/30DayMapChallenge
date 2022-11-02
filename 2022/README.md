@@ -3,10 +3,14 @@
 #### by **_Ahmad Zaenun Faiz_** <br><br>
 
 ## MAP CATALOGUE <br>
-###  <b>1. Day 1 - Point</b>
+###  <b>1. Day 1 - Points</b>
 This is a map of cultural heritage locations around Prambanan Temple Compounds in Kewu Plain. Historically the area was identified as Mataram. The region was the center of the Medang i Bhumi Mataram kingdom in the 8th to 10th centuries.<br>
 > ![day_1](./1_day1-points/Day%201%20-%20Points%20(Candi%20Prambanan).png)
-* [Day 2 - Lines]()
+
+### <b>2. Day 2 - Lines</b>
+The majority of Indonesia's railways are on Java, used for both passenger and freight transport. Despite Indonesia having a left-hand running for roads, most of the railway lines use right-hand running due to Dutch influence. 
+> ![day_2](./2_day2-lines/Day%202%20-%20Lines%20(Kereta%20Api).png)
+
 * [Day 3 - Polygons]()
 * [Day 4 - Colour Friday: Green]()
 * [Day 5 - Ukraine]()
