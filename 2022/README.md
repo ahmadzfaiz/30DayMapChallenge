@@ -11,7 +11,10 @@ This is a map of cultural heritage locations around Prambanan Temple Compounds i
 The majority of Indonesia's railways are on Java, used for both passenger and freight transport. Despite Indonesia having a left-hand running for roads, most of the railway lines use right-hand running due to Dutch influence. 
 > ![day_2](./2_day2-lines/Day%202%20-%20Lines%20(Kereta%20Api).png)
 
-* [Day 3 - Polygons]()
+### <b>3. Day 3 - Polygons</b>
+Seruyan River is a river of Borneo, Indonesia. The river has its source near Bikit Tikung (1,175 metres) in the Schwaner Mountain Range. The river flow down on dense forest at Sembulu lakes and is said to be a major habitat of the orangutan.
+> ![day_3](./3_day3-poligons/Day%203%20-%20Polygons%20(Seruyan).png)
+
 * [Day 4 - Colour Friday: Green]()
 * [Day 5 - Ukraine]()
 * [Day 6 - Network]()
