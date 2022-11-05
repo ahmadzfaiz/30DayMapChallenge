@@ -18,7 +18,11 @@ Seruyan River is a river of Borneo, Indonesia. The river has its source near Bik
 ### <b>4. Day 4 - Colour Friday: Green</b>
 NDVI is a simple graphical indicator that can be used to analyze remote sensing measurements, often from a space platform, assessing whether or not the target being observed contains live green vegetation.
 > ![day_4](./4_day4-green/Day%204%20-%20Green%20(NDVI).png)
-* [Day 5 - Ukraine]()
+
+### <b>5. Day 5 - Ukraine</b>
+Ukraine operates four nuclear power plants with 15 reactors located in Volhynia and South Ukraine. The total installed nuclear power capacity is over 13 GWe, ranking 7th in the world in 2020.
+> ![day_5](./5_day5-ukraine/Day%205%20-%20Ukraine%20(Nuclear%20Power).png)
+
 * [Day 6 - Network]()
 * [Day 7 - Raster]()
 * [Day 8 - Data: OpenStreetMap]()
