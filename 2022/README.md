@@ -15,7 +15,9 @@ The majority of Indonesia's railways are on Java, used for both passenger and fr
 Seruyan River is a river of Borneo, Indonesia. The river has its source near Bikit Tikung (1,175 metres) in the Schwaner Mountain Range. The river flow down on dense forest at Sembulu lakes and is said to be a major habitat of the orangutan.
 > ![day_3](./3_day3-poligons/Day%203%20-%20Polygons%20(Seruyan).png)
 
-* [Day 4 - Colour Friday: Green]()
+### <b>4. Day 4 - Colour Friday: Green</b>
+NDVI is a simple graphical indicator that can be used to analyze remote sensing measurements, often from a space platform, assessing whether or not the target being observed contains live green vegetation.
+> ![day_4](./4_day4-green/Day%204%20-%20Green%20(NDVI).png)
 * [Day 5 - Ukraine]()
 * [Day 6 - Network]()
 * [Day 7 - Raster]()
