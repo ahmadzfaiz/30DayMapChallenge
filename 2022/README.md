@@ -13,7 +13,7 @@ The majority of Indonesia's railways are on Java, used for both passenger and fr
 
 ### <b>3. Day 3 - Polygons</b>
 Seruyan River is a river of Borneo, Indonesia. The river has its source near Bikit Tikung (1,175 metres) in the Schwaner Mountain Range. The river flow down on dense forest at Sembulu lakes and is said to be a major habitat of the orangutan.
-> ![day_3](./3_day3-poligons/Day%203%20-%20Polygons%20(Seruyan).png)
+> ![day_3](./3_day3-polygons/Day%203%20-%20Polygons%20(Seruyan).png)
 
 ### <b>4. Day 4 - Colour Friday: Green</b>
 NDVI is a simple graphical indicator that can be used to analyze remote sensing measurements, often from a space platform, assessing whether or not the target being observed contains live green vegetation.
@@ -23,7 +23,10 @@ NDVI is a simple graphical indicator that can be used to analyze remote sensing 
 Ukraine operates four nuclear power plants with 15 reactors located in Volhynia and South Ukraine. The total installed nuclear power capacity is over 13 GWe, ranking 7th in the world in 2020.
 > ![day_5](./5_day5-ukraine/Day%205%20-%20Ukraine%20(Nuclear%20Power).png)
 
-* [Day 6 - Network]()
+### <b>6. Day 6 - Network</b>
+Submarine communications cables are laid down by using specially modified ships (sometimes even purpose built ships) that carry the submarine cable on board and slowly lay it out on the seabed as per the plans given by the cable operator.
+> ![day_6](./6_day6-network/Day%206%20-%20Network%20(kabel).png)
+
 * [Day 7 - Raster]()
 * [Day 8 - Data: OpenStreetMap]()
 * [Day 9 - Space]()
