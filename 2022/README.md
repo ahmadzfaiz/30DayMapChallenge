@@ -27,7 +27,10 @@ Ukraine operates four nuclear power plants with 15 reactors located in Volhynia 
 Submarine communications cables are laid down by using specially modified ships (sometimes even purpose built ships) that carry the submarine cable on board and slowly lay it out on the seabed as per the plans given by the cable operator.
 > ![day_6](./6_day6-network/Day%206%20-%20Network%20(kabel).png)
 
-* [Day 7 - Raster]()
+### <b>7. Day 7 - Raster</b>
+Kupang is the capital of the Indonesian province of East Nusa Tenggara. It had a population of 442,758 (2020). It's the largest city and port on the island of Timor, and is a part of the Timor Leste-Indonesia-Australia Growth Triangle FTZ.
+> ![day_7](./7_day7-raster/Day%207%20-%20Raster%20(kupang).png)
+
 * [Day 8 - Data: OpenStreetMap]()
 * [Day 9 - Space]()
 * [Day 10 - A bad map]()
