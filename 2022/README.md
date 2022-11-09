@@ -31,7 +31,10 @@ Submarine communications cables are laid down by using specially modified ships 
 Kupang is the capital of the Indonesian province of East Nusa Tenggara. It had a population of 442,758 (2020). It's the largest city and port on the island of Timor, and is a part of the Timor Leste-Indonesia-Australia Growth Triangle FTZ.
 > ![day_7](./7_day7-raster/Day%207%20-%20Raster%20(kupang).png)
 
-* [Day 8 - Data: OpenStreetMap]()
+### <b>8. Day 8 - Data: OpenStreetMap</b>
+Mandalika International Street Circuit is located in the Mandalika resort area on Lombok island, Indonesia. The sports cluster and entertainment project, measuring 120 hectares, is expected to include hotels and other facilities.
+> ![day_8](./8_day8-openstreetmap/Day%208%20-%20OpenStreetMap%20(Mandalika).png)
+
 * [Day 9 - Space]()
 * [Day 10 - A bad map]()
 * [Day 11 - Colour Friday: Red]()
