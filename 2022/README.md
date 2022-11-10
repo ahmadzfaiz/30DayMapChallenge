@@ -35,8 +35,14 @@ Kupang is the capital of the Indonesian province of East Nusa Tenggara. It had a
 Mandalika International Street Circuit is located in the Mandalika resort area on Lombok island, Indonesia. The sports cluster and entertainment project, measuring 120 hectares, is expected to include hotels and other facilities.
 > ![day_8](./8_day8-openstreetmap/Day%208%20-%20OpenStreetMap%20(Mandalika).png)
 
-* [Day 9 - Space]()
-* [Day 10 - A bad map]()
+### <b>9. Day 9 - Space</b>
+Mars is the fourth planet from the Sun in the Solar System. Mars has surface features such as impact craters, valleys, dunes, and polar ice caps. It has a crust primarily composed of elements similar to Earth's crust.
+> ![day_9](./9_day9-space/Day%209%20-%20Space%20(Mars).png)
+
+### <b>10. Day 10 - A bad map</b>
+Blue colour is reserved for water features in a map. Never use blue for colouring land features or it will make the map readers confuse.
+> ![day_10](./10_day10-a-bad-map/Day%2010%20-%20A%20bad%20map%20(Kedung%20Ombo).png)
+
 * [Day 11 - Colour Friday: Red]()
 * [Day 12 - Scale]()
 * [Day 13 - 5 minute map]()
