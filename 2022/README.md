@@ -43,8 +43,14 @@ Mars is the fourth planet from the Sun in the Solar System. Mars has surface fea
 Blue colour is reserved for water features in a map. Never use blue for colouring land features or it will make the map readers confuse.
 > ![day_10](./10_day10-a-bad-map/Day%2010%20-%20A%20bad%20map%20(Kedung%20Ombo).png)
 
-* [Day 11 - Colour Friday: Red]()
-* [Day 12 - Scale]()
+### <b>11. Day 11 - Colour Friday: Red</b>
+This is a Landsat 8 Imagery with 543 composite band. This imagery is suitable to monitor vegetation on earth surface. Red color mean vegetation existence in the specific location.
+> ![day_11](./11_day11-red/Day%2011%20-%20Red%20(Temanggung).png)
+
+### <b>12. Day 12 - Scale</b>
+Map or cartographic scale is the ratio of a distance on Earth compared to the same distance on a map. Somewhat counterintuitively we describe detailed maps of smaller areas as large scale maps and global maps as small scale.
+> ![day_12](./12_day12-scale/Day%2012%20-%20Scale%20(Bukittinggi).png)
+
 * [Day 13 - 5 minute map]()
 * [Day 14 - Hexagons]()
 * [Day 15 - Food/drink]()
