@@ -51,8 +51,14 @@ This is a Landsat 8 Imagery with 543 composite band. This imagery is suitable to
 Map or cartographic scale is the ratio of a distance on Earth compared to the same distance on a map. Somewhat counterintuitively we describe detailed maps of smaller areas as large scale maps and global maps as small scale.
 > ![day_12](./12_day12-scale/Day%2012%20-%20Scale%20(Bukittinggi).png)
 
-* [Day 13 - 5 minute map]()
-* [Day 14 - Hexagons]()
+### <b>13. Day 13 - 5 minute map</b>
+I create this challenge with QGIS using previous map template. I display satellite imagery from XYZ Tiles by ESRI and I complete this map around 6 minutes.
+> ![day_13](./13_day13-5-minute-map/Day%2013%20-%205%20minute%20map.png)
+
+### <b>14. Day 14 - Hexagons</b>
+Hexagon is a simple map representation of specific object within specific area. This map visualize workforce in Sulawesi Island, Indonesia. It seem Makassar have more workforce than other locations in Sulawesi.
+> ![day_14](./14_day14-hexagons/Day%2014%20-%20Hexagon%20(sulawesi).png)
+
 * [Day 15 - Food/drink]()
 * [Day 16 - Minimal]()
 * [Day 17 - A map without a computer]()
