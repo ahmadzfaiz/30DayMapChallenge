@@ -59,7 +59,10 @@ I create this challenge with QGIS using previous map template. I display satelli
 Hexagon is a simple map representation of specific object within specific area. This map visualize workforce in Sulawesi Island, Indonesia. It seem Makassar have more workforce than other locations in Sulawesi.
 > ![day_14](./14_day14-hexagons/Day%2014%20-%20Hexagon%20(sulawesi).png)
 
-* [Day 15 - Food/drink]()
+### <b>15. Day 15 - Food/drink</b>
+Cropland to grow food and animal feed is the central limiting resource for food production (Kastner et al., 2012). Over the past half century, the agricultural sector has grown increasingly efficient with the land under cultivation.
+> ![day_15](./15_day15-food-or-drink/Day%2015%20-%20Food%20%26%20drink%20(cropland).png)
+
 * [Day 16 - Minimal]()
 * [Day 17 - A map without a computer]()
 * [Day 18 - Colour Friday: Blue]()
