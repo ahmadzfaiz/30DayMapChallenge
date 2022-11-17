@@ -63,8 +63,14 @@ Hexagon is a simple map representation of specific object within specific area. 
 Cropland to grow food and animal feed is the central limiting resource for food production (Kastner et al., 2012). Over the past half century, the agricultural sector has grown increasingly efficient with the land under cultivation.
 > ![day_15](./15_day15-food-or-drink/Day%2015%20-%20Food%20%26%20drink%20(cropland).png)
 
-* [Day 16 - Minimal]()
-* [Day 17 - A map without a computer]()
+### <b>16. Day 16 - Minimal</b>
+Black and white is the 1-bit color. It's least compute number that we can do in a computer systems. It return 1 for True and 0 for False in a boolean data type. OpenStreetMap data in black and white is quite beautiful.
+> ![day_16](./16_day16-minimal/Day%2016%20-%20Minimal%20(temanggung).png)
+
+### <b>17. Day 17 - A map without a computer</b>
+I love eating sunflower seed, so why not make a map from sunflower seeds?
+> ![day_17](./17_day17-a-map-without-computer/Day%2017%20-%20A%20map%20without%20a%20computer.jpg)
+
 * [Day 18 - Colour Friday: Blue]()
 * [Day 19 - Globe]()
 * [Day 20 - "My favourite ..."]()
