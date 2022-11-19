@@ -71,8 +71,14 @@ Black and white is the 1-bit color. It's least compute number that we can do in 
 I love eating sunflower seed, so why not make a map from sunflower seeds?
 > ![day_17](./17_day17-a-map-without-computer/Day%2017%20-%20A%20map%20without%20a%20computer.jpg)
 
-* [Day 18 - Colour Friday: Blue]()
-* [Day 19 - Globe]()
+### <b>18. Day 18 - Colour Friday: Blue</b>
+Komodo island is particularly notable as the habitat of the Komodo dragon, the largest lizard on Earth, which is named after the island. Komodo Island has a surface area of 390 square kilometres and a human population of over two thousand.
+> ![day_18](./18_day18-blue/Day%2018%20-%20Blue%20(komodo).png)
+
+### <b>19. Day 19 - Globe</b>
+A capital city or capital is the municipality holding primary status in a country. A capital is typically a city that physically encompasses the government's offices and meeting places; the status as capital is often designated by its law.
+> ![day_19](./19_day19-globe/Day%2019%20-%20Globe%20(ibukota).png)
+
 * [Day 20 - "My favourite ..."]()
 * [Day 21 - Data: Kontur Population Dataset]()
 * [Day 22 - NULL]()
