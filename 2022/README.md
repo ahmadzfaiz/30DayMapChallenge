@@ -79,8 +79,15 @@ Komodo island is particularly notable as the habitat of the Komodo dragon, the l
 A capital city or capital is the municipality holding primary status in a country. A capital is typically a city that physically encompasses the government's offices and meeting places; the status as capital is often designated by its law.
 > ![day_19](./19_day19-globe/Day%2019%20-%20Globe%20(ibukota).png)
 
-* [Day 20 - "My favourite ..."]()
-* [Day 21 - Data: Kontur Population Dataset]()
+### <b>20. Day 20 - "My favourite ..."</b>
+I love football matches. Football is a complex game. It require complex tactic and strategy to play a good game in professional football. It's interesting to map football pitch and visualize it.
+> ![day_20](./20_day20-my-favourite/UCL%20Final%202017-18.png)
+
+### <b>21. Day 21 - Data: Kontur Population Dataset</b>
+Kontur Population dataset used Global Human Settlement Layer (GHSL) overlaid with Facebook population data where available. I map Jogja-Solo-Semarang urban agglomeration population in the center of Java Island.
+> ![day_21](./21_day21-kontur-population/Day%2021%20-%20Data%20Kontur%20Population%20Dataset.png)
+
+
 * [Day 22 - NULL]()
 * [Day 23 - Movement]()
 * [Day 24 - Fantasy]()
