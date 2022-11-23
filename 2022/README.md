@@ -87,9 +87,15 @@ I love football matches. Football is a complex game. It require complex tactic a
 Kontur Population dataset used Global Human Settlement Layer (GHSL) overlaid with Facebook population data where available. I map Jogja-Solo-Semarang urban agglomeration population in the center of Java Island.
 > ![day_21](./21_day21-kontur-population/Day%2021%20-%20Data%20Kontur%20Population%20Dataset.png)
 
+### <b>22. Day 22 - NULL</b>
+Bir Tawil is a 2,060 km2 area of land along the border between Egypt and Sudan, which is uninhabited and claimed by neither country. It is sometimes referred to as the Bir Tawil Triangle.
+> ![day_22](./22_day22-null/Day%2022%20-%20NULL%20(bir%20tawil).png)
 
-* [Day 22 - NULL]()
-* [Day 23 - Movement]()
+### <b>23. Day 23 - Movement</b>
+KRL Jabodetabek is operated by PT KAI Commuter Indonesia. The rail system uses rolling stock of rapid transit standard and operates at high frequency with a minimum headway. In 2019, daily average number of KRL users reaches 1.04 million.
+> ![day_23](./23_day23-movement/output_video/KRL.gif)
+
+
 * [Day 24 - Fantasy]()
 * [Day 25 - Colour Friday: 2 colours]()
 * [Day 26 - Island(s)]()
