@@ -103,8 +103,14 @@ Game of Thrones is a fantasy drama TV series. It's an adaptation of A Song of Ic
 I make a meme map to describe to location of Indonesia. Many people abroad didn't notice where Indonesia location is.
 > ![day_25](./25_day25-2-colours/Day%2025%20-%202%20colours%20(indonesia).png)
 
-* [Day 26 - Island(s)]()
-* [Day 27 - Music]()
+### <b>26. Day 26 - Island(s)</b>
+Takabonerate National Park is a marine park which includes the Takabonerate atoll islands, located in the Flores Sea, south of Sulawesi island of Indonesia. It has been included in the UNESCO World Network of Biosphere Reserves in 2015.
+> ![day_26](./26_day26-islands/Day%2026%20-%20Island(s)%20(takabonerate).png)
+
+### <b>27. Day 27 - Music</b>
+Justin Bieber is a canadian singer,songwriter and musician. Before Justin Bieber no one had seen a teenage boy become so successful and popular. It actually made people curious like “who the hell is he?!” This added to his followers/viewers.
+> ![day_27](./27_day27-music/Day%2027%20-%20Music%20(2).png)
+
 * [Day 28 - 3D]()
 * [Day 29 - "Out of my comfort zone"]()
 * [Day 30 - Remix]()
