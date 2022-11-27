@@ -1,6 +1,6 @@
 ![dmc_icon](../miscellaneous/banner2022.png)
 # #30DayMapChallenge 2022
-#### by **_Ahmad Zaenun Faiz_** <br><br>
+by **_Ahmad Zaenun Faiz_** <br><br>
 
 ## MAP CATALOGUE <br>
 ###  <b>1. Day 1 - Points</b>
@@ -95,9 +95,14 @@ Bir Tawil is a 2,060 km2 area of land along the border between Egypt and Sudan, 
 KRL Jabodetabek is operated by PT KAI Commuter Indonesia. The rail system uses rolling stock of rapid transit standard and operates at high frequency with a minimum headway. In 2019, daily average number of KRL users reaches 1.04 million.
 > ![day_23](./23_day23-movement/output_video/KRL.gif)
 
+### <b>24. Day 24 - Fantasy</b>
+Game of Thrones is a fantasy drama TV series. It's an adaptation of A Song of Ice and Fire, a series of fantasy novels by George R. R. Martin, the first of which is A Game of Thrones. It set on the fictional continents of Westeros and Essos.
+> ![day_24](./24_day24-fantasy/Day%2024%20-%20Fantasy%20(got).png)
 
-* [Day 24 - Fantasy]()
-* [Day 25 - Colour Friday: 2 colours]()
+### <b>25. Day 25 - Colour Friday: 2 colours</b>
+I make a meme map to describe to location of Indonesia. Many people abroad didn't notice where Indonesia location is.
+> ![day_25](./25_day25-2-colours/Day%2025%20-%202%20colours%20(indonesia).png)
+
 * [Day 26 - Island(s)]()
 * [Day 27 - Music]()
 * [Day 28 - 3D]()
