@@ -117,10 +117,11 @@ The Moszna Castle is a historic castle and palace located in the small village o
 
 ### <b>29. Day 29 - "Out of my comfort zone"</b>
 I usually create map with QGIS. This map is created with Python using Pandas, GeoPandas and Matplotlib libraries. I still learning to create maps using Python, so this map was very simple.
-> ![day_29](./29_day29-out-of-my-comfort-zone/)
+> ![day_29](./29_day29-out-of-my-comfort-zone/Day%2029%20-%20Out%20of%20my%20comfort%20zone.png)
 
 ### <b>30. Day 30 - Remix</b>
-> ![day_30](./)
+I remake a map of agricultural zone in China 1986 from the original source of Wikipedia. This map is very interesting because it show northern China is wheat dominant crop and southern China is rice dominant crop.
+> ![day_30](./30_day30-remix/Day%2030%20-%20Remix%20(china).png)
 
 Tools used:<br>
 <a href='https://qgis.org/en/site/'><img src='../miscellaneous/qgis-logo.png' style='height:50px'></a>
