@@ -111,9 +111,16 @@ Takabonerate National Park is a marine park which includes the Takabonerate atol
 Justin Bieber is a canadian singer,songwriter and musician. Before Justin Bieber no one had seen a teenage boy become so successful and popular. It actually made people curious like “who the hell is he?!” This added to his followers/viewers.
 > ![day_27](./27_day27-music/Day%2027%20-%20Music%20(2).png)
 
-* [Day 28 - 3D]()
-* [Day 29 - "Out of my comfort zone"]()
-* [Day 30 - Remix]()
+### <b>28. Day 28 - 3D</b>
+The Moszna Castle is a historic castle and palace located in the small village of Moszna, in southwestern Poland. The residence is an excellent example of romantic fairy-tale and eclectic architecture.
+> ![day_28](./28_day28-3d/Day%2028%20-%203D%20(moszna).png)
+
+### <b>29. Day 29 - "Out of my comfort zone"</b>
+I usually create map with QGIS. This map is created with Python using Pandas, GeoPandas and Matplotlib libraries. I still learning to create maps using Python, so this map was very simple.
+> ![day_29](./29_day29-out-of-my-comfort-zone/)
+
+### <b>30. Day 30 - Remix</b>
+> ![day_30](./)
 
 Tools used:<br>
 <a href='https://qgis.org/en/site/'><img src='../miscellaneous/qgis-logo.png' style='height:50px'></a>
