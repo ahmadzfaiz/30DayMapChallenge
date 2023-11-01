@@ -1,0 +1,4 @@
+cloud: https://id.pikbest.com/video/alpha-channel-cartoon-smoke-effect-mg-animation_1325651.html
+water: https://www.pngegg.com/en/png-vcrtp
+paper: https://img.freepik.com/premium-vector/cartoon-old-ancient-papyrus-parchment-paper-scroll-papyrus-parchment-paper-scrolls-old-map-historical-document-vector-illustration-set-old-manuscript-scrolls_229548-2332.jpg
+bean: https://webstockreview.net/images/clipart-leaves-jack-and-the-beanstalk-16.png
