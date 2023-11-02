@@ -3,7 +3,8 @@
 #### by **_Ahmad Zaenun Faiz_** <br><br>
 This my repo about mapping challenge within 30 days in November
 
-* ### [2022 Map Challenge Catalogue](./2022/)
+* ### [2022 Map Challenge Catalogue](https://github.com/ahmadzfaiz/30DayMapChallenge/blob/main/2022/README.md)
+* ### [2023 Map Challenge Catalogue](https://github.com/ahmadzfaiz/30DayMapChallenge/blob/main/2023/README.md)
 
 Check on my social media<br>
 <a href='https://twitter.com/zaenun_faiz'><img src='./miscellaneous/twitter-icon.png' style='width:50px'></a>
