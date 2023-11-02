@@ -7,8 +7,8 @@ This map is showing the Mugiwara Pirate crew location while in Skypiea Arcade. P
 > ![day_1](./1_day1-points/Skypiea.png)
 
 ### <b>2. Day 2 - Lines</b>
-Coming soon...
-> ![day_2](./)
+Alexander the Great was a king of the ancient Greek kingdom of Macedon. He succeeded his father Philip II to the throne in 336 BC at the age of 20, and spent most of his ruling years conducting a lengthy military campaign throughout Western Asia, Egypt and India. This map is showing military expedition route of Alexander.
+> ![day_2](./2_day2-lines/Alexander.png)
 
 ### <b>3. Day 3 - Polygons</b>
 Coming soon...
