@@ -11,8 +11,8 @@ Alexander the Great was a king of the ancient Greek kingdom of Macedon. He succe
 > ![day_2](./2_day2-lines/Alexander.png)
 
 ### <b>3. Day 3 - Polygons</b>
-Coming soon...
-> ![day_3](./)
+The Han dynasty was an imperial dynasty of China (202 BC – 9 AD, 25–220 AD), established by Liu Bang and ruled by the House of Liu. The dynasty was preceded by the short-lived Qin dynasty and it was succeeded by the Three Kingdoms period.
+> ![day_3](./3_day3-polygons/Han.png)
 
 ### <b>4. Day 4 - A bad map</b>
 Coming soon...
