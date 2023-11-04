@@ -15,8 +15,8 @@ The Han dynasty was an imperial dynasty of China (202 BC – 9 AD, 25–220 AD),
 > ![day_3](./3_day3-polygons/Han.png)
 
 ### <b>4. Day 4 - A bad map</b>
-Coming soon...
-> ![day_4](./)
+World time zone map is so confusing. Its shape does not refer to longitude, but adapts to political territorial boundaries. Why is there such a confusing map like this?
+> ![day_4](./4_day4-a-bad-map/Timezone.png)
 
 ### <b>5. Day 5 - Analog Map</b>
 Coming soon...
