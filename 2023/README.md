@@ -19,16 +19,16 @@ World time zone map is so confusing. Its shape does not refer to longitude, but 
 > ![day_4](./4_day4-a-bad-map/Timezone.png)
 
 ### <b>5. Day 5 - Analog Map</b>
-Coming soon...
-> ![day_5](./)
+The Banda Islands are a volcanic group of ten small volcanic islands in the Banda Sea. Until the mid-19th century the Banda Islands were the world's only source of the spices nutmeg and mace, produced from the nutmeg tree.
+> ![day_5](./5_day5-analog-map/analog.jpg)
 
 ### <b>6. Day 6 - Asia</b>
-Coming soon...
-> ![day_6](./)
+The Sengoku period is the period in Japanese history in which civil wars and social upheavals took place almost continuously in the 15th and 16th centuries. During this period, although the Emperor of Japan was officially the ruler of his nation and every lord swore loyalty to him, he was largely a marginalized, ceremonial, and religious figure who delegated power to the shōgun, a noble who was roughly equivalent to a general. In the years preceding this era, the shogunate gradually lost influence and control over the daimyōs (local lords).
+> ![day_6](./6_day6-asia/Sengoku.png)
 
 ### <b>7. Day 7 - Navigation</b>
-Coming soon...
-> ![day_7](./)
+Portuguese maritime exploration resulted in the numerous territories and maritime routes recorded by the Portuguese as a result of their intensive maritime journeys during the 15th and 16th centuries. Portuguese sailors were at the vanguard of European exploration, chronicling and mapping the coasts of Africa and Asia, then known as the East Indies, and Canada and Brazil (the West Indies), in what came to be known as the Age of Discovery.
+> ![day_7](./7_day7-navigation/Portuguese.png)
 
 ### <b>8. Day 8 - Africa</b>
 Coming soon...
