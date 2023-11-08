@@ -31,8 +31,8 @@ Portuguese maritime exploration resulted in the numerous territories and maritim
 > ![day_7](./7_day7-navigation/Portuguese.png)
 
 ### <b>8. Day 8 - Africa</b>
-Coming soon...
-> ![day_8](./)
+A biome is a biogeographical unit consisting of a biological community that has formed in response to the physical environment in which they are found and a shared regional climate. This map is showing biome distribution in the Africa continent.
+> ![day_8](./8_day8-africa/AfricaBiome.png)
 
 ### <b>9. Day 9 - Hexagons</b>
 Coming soon...
