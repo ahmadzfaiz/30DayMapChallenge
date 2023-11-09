@@ -35,8 +35,8 @@ A biome is a biogeographical unit consisting of a biological community that has 
 > ![day_8](./8_day8-africa/AfricaBiome.png)
 
 ### <b>9. Day 9 - Hexagons</b>
-Coming soon...
-> ![day_9](./)
+In 2023, approximately 2.2 million people lived in the Gaza Strip, and almost 1.6 million of them were UN-registered refugees. Gaza strip is known as a dense populated area with population density 4,073 person/km sq.
+> ![day_9](./9_day9-hexagons/gaza.jpg)
 
 ### <b>10. Day 10 - North America</b>
 Coming soon...
