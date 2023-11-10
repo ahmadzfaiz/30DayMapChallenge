@@ -39,8 +39,8 @@ In 2023, approximately 2.2 million people lived in the Gaza Strip, and almost 1.
 > ![day_9](./9_day9-hexagons/gaza.jpg)
 
 ### <b>10. Day 10 - North America</b>
-Coming soon...
-> ![day_10](./)
+Teotihuacan is known today as the site of many of the most architecturally significant Mesoamerican pyramids built in the pre-Columbian Americas, namely the Pyramid of the Sun and the Pyramid of the Moon. At its zenith, perhaps in the first half of the first millennium (1 CE to 500 CE), Teotihuacan was the largest city in the Americas, considered as the first advanced civilization on the North American continent, with a population estimated at 125,000 or more, making it at least the sixth-largest city in the world during its epoch.
+> ![day_10](./10_day10-north-america/Teotihuacan.png)
 
 ### <b>11. Day 11 - Retro</b>
 Coming soon...
