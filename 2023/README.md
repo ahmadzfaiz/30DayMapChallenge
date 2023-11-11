@@ -43,8 +43,8 @@ Teotihuacan is known today as the site of many of the most architecturally signi
 > ![day_10](./10_day10-north-america/Teotihuacan.png)
 
 ### <b>11. Day 11 - Retro</b>
-Coming soon...
-> ![day_11](./)
+The Maluku Islands or the Moluccas are an archipelago in the eastern part of Indonesia. The islands were known as the Spice Islands because of the nutmeg, mace, and cloves that were exclusively found there, the presence of which sparked colonial interest from Europe in the 16th century.
+> ![day_11](./11_day11-retro/Maluku.png)
 
 ### <b>12. Day 12 - South America</b>
 Coming soon...
