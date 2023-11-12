@@ -47,8 +47,8 @@ The Maluku Islands or the Moluccas are an archipelago in the eastern part of Ind
 > ![day_11](./11_day11-retro/Maluku.png)
 
 ### <b>12. Day 12 - South America</b>
-Coming soon...
-> ![day_12](./)
+Guiana plains is known as fertile land in South America. The region is contested by colonial power such United Kingdom, Netherland, Spain and France for plantation establishment along the many rivers in the fertile Guiana plains. The boundary dispute in this map was inherited from the colonial powers between Venezuela (Spain 🇪🇸), Guyana (UK 🇬🇧), Suriname (Netherland 🇳🇱) and French Guiana (France 🇫🇷).
+> ![day_12](./12_day12-south-america/Guyana.png)
 
 ### <b>13. Day 13 - Choropleth</b>
 Coming soon...
