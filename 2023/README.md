@@ -51,8 +51,8 @@ Guiana plains is known as fertile land in South America. The region is contested
 > ![day_12](./12_day12-south-america/Guyana.png)
 
 ### <b>13. Day 13 - Choropleth</b>
-Coming soon...
-> ![day_13](./)
+A choropleth map is a type of statistical thematic map that uses pseudocolor, meaning color corresponding with an aggregate summary of a geographic characteristic within spatial enumeration units. This is a choropleth map that showing population of Gaza Strip.
+> ![day_13](./13_day13-choropleth/Gaza.jpeg)
 
 ### <b>14. Day 14 - Europe</b>
 Coming soon...
