@@ -55,8 +55,8 @@ A choropleth map is a type of statistical thematic map that uses pseudocolor, me
 > ![day_13](./13_day13-choropleth/Gaza.jpeg)
 
 ### <b>14. Day 14 - Europe</b>
-Coming soon...
-> ![day_14](./)
+World War II was a global conflict that lasted from 1939 to 1945. The vast majority of the world's countries, including all the great powers, fought as part of two opposing military alliances: the Allies and the Axis. Many participating countries invested all available economic, industrial, and scientific capabilities into this total war, blurring the distinction between civilian and military resources. This is World War II situation map in Europe.
+> ![day_14](./14_day14-europe/World%20War%20II.png)
 
 ### <b>15. Day 15 - OpenStreetMap</b>
 Coming soon...
