@@ -59,8 +59,8 @@ World War II was a global conflict that lasted from 1939 to 1945. The vast major
 > ![day_14](./14_day14-europe/World%20War%20II.png)
 
 ### <b>15. Day 15 - OpenStreetMap</b>
-Coming soon...
-> ![day_15](./)
+Al Ras Al Akhdar is a large peninsula located at the western end of Abu Dhabi. While the area is popular for housing the 5-star Emirates Palace, one of UAE’s top tourist attractions, it is also home to the Presidential Palace, Founders Memorial and the iconic Etihad Towers. The peninsula is separated from mainland Abu Dhabi by King Abdullah Bin Aziz Al Saud Street. It lies in proximity to notable neighbourhoods such as Al Bateen, Al Khubeira, Al Khalidiya and Marina Village.
+> ![day_15](./15_day15-openstreetmap/OSM.jpeg)
 
 ### <b>16. Day 16 - Oceania</b>
 Coming soon...
