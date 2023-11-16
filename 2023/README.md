@@ -63,8 +63,8 @@ Al Ras Al Akhdar is a large peninsula located at the western end of Abu Dhabi. W
 > ![day_15](./15_day15-openstreetmap/OSM.jpeg)
 
 ### <b>16. Day 16 - Oceania</b>
-Coming soon...
-> ![day_16](./)
+Melanesia, Micronesia and Polynesia is three major cultural areas of the Pacific Ocean islands. Historical records highlight that Polynesian people were sea migrates who navigated their way with the assistance of stars. When focusing on the ancestry of the Melanesian people, African and aboriginal origins are clearly visible. The people in Melanesia speak Papuan or Austronesian languages. Among the people of Micronesia, a large diversity is visible. The development of the Micronesian culture is considered as one of the last of the entire region. This can be regarded as a mixture of the culture of the other areas of Polynesia and Melanesia as well.
+> ![day_16](./16_day16-oceania/Oceania.jpeg)
 
 ### <b>17. Day 17 - Flow</b>
 Coming soon...
