@@ -67,8 +67,8 @@ Melanesia, Micronesia and Polynesia is three major cultural areas of the Pacific
 > ![day_16](./16_day16-oceania/Oceania.jpeg)
 
 ### <b>17. Day 17 - Flow</b>
-Coming soon...
-> ![day_17](./)
+The Amazon River or known as Río Amazonas in Spanish and Rio Amazonas in Portuguese in South America is the largest river by discharge volume of water in the world, and the disputed longest river system in the world in comparison to the Nile.
+> ![day_17](./17_day17-flow/Amazon.png)
 
 ### <b>18. Day 18 - Atmosphere</b>
 Coming soon...
