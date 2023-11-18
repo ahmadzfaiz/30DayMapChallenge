@@ -71,8 +71,9 @@ The Amazon River or known as Río Amazonas in Spanish and Rio Amazonas in Portug
 > ![day_17](./17_day17-flow/Amazon.png)
 
 ### <b>18. Day 18 - Atmosphere</b>
-Coming soon...
-> ![day_18](./)
+Snow cover, which is mostly located in the northern hemisphere, is caused by the climate at high latitudes being relatively colder compared to the climate at low latitudes. It is increasingly thinning due to the effects of global warming.
+
+> ![day_18](./18_day18-atmosphere/Snow2.png)
 
 ### <b>19. Day 19 - 5 minute map</b>
 Coming soon...
