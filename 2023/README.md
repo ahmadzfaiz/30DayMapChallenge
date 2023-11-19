@@ -76,8 +76,8 @@ Snow cover, which is mostly located in the northern hemisphere, is caused by the
 > ![day_18](./18_day18-atmosphere/Snow2.png)
 
 ### <b>19. Day 19 - 5 minute map</b>
-Coming soon...
-> ![day_19](./)
+The following is a map generated with AI technology using deepai.org/machine-learning-model/fantasy-map-generator. AI has a good ability to produce maps in a short time.
+> ![day_19](./19_day19-5-minute-map/74e36dcd-181d-46c8-a1e3-2208892094e0.jpg)
 
 ### <b>20. Day 20 - Outdoors</b>
 Coming soon...
